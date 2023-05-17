@@ -33,3 +33,23 @@ a,
     padding: 0 2rem;
   }
 }
+
+.my-form {
+  min-width: 35vw !important;
+  .btn {
+    margin-top: 10px;
+  }
+}
+
+
+/* LOGIN */
+
+.social-icons {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-nav-items{
+  display: flex;
+  justify-content: space-around !important;
+}
