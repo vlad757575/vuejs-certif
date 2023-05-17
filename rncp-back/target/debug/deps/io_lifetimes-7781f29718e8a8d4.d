@@ -1,0 +1,10 @@
+/home/vlavrentiev/vuejs-certif/rncp-back/target/debug/deps/io_lifetimes-7781f29718e8a8d4.rmeta: /home/vlavrentiev/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.10/src/lib.rs /home/vlavrentiev/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.10/src/portability.rs /home/vlavrentiev/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.10/src/traits.rs /home/vlavrentiev/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.10/src/example_ffi.rs /home/vlavrentiev/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.10/src/raw.rs /home/vlavrentiev/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.10/src/views.rs
+
+/home/vlavrentiev/vuejs-certif/rncp-back/target/debug/deps/io_lifetimes-7781f29718e8a8d4.d: /home/vlavrentiev/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.10/src/lib.rs /home/vlavrentiev/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.10/src/portability.rs /home/vlavrentiev/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.10/src/traits.rs /home/vlavrentiev/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.10/src/example_ffi.rs /home/vlavrentiev/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.10/src/raw.rs /home/vlavrentiev/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.10/src/views.rs
+
+/home/vlavrentiev/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.10/src/lib.rs:
+/home/vlavrentiev/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.10/src/portability.rs:
+/home/vlavrentiev/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.10/src/traits.rs:
+/home/vlavrentiev/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.10/src/example_ffi.rs:
+/home/vlavrentiev/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.10/src/raw.rs:
+/home/vlavrentiev/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.10/src/views.rs:

@@ -1,0 +1,10 @@
+/home/vlavrentiev/vuejs-certif/rncp-back/target/debug/deps/proc_macro2_diagnostics-33de7729085e543b.rmeta: /home/vlavrentiev/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.10.0/src/lib.rs /home/vlavrentiev/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.10.0/src/ext.rs /home/vlavrentiev/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.10.0/src/diagnostic.rs /home/vlavrentiev/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.10.0/src/line.rs
+
+/home/vlavrentiev/vuejs-certif/rncp-back/target/debug/deps/libproc_macro2_diagnostics-33de7729085e543b.rlib: /home/vlavrentiev/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.10.0/src/lib.rs /home/vlavrentiev/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.10.0/src/ext.rs /home/vlavrentiev/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.10.0/src/diagnostic.rs /home/vlavrentiev/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.10.0/src/line.rs
+
+/home/vlavrentiev/vuejs-certif/rncp-back/target/debug/deps/proc_macro2_diagnostics-33de7729085e543b.d: /home/vlavrentiev/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.10.0/src/lib.rs /home/vlavrentiev/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.10.0/src/ext.rs /home/vlavrentiev/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.10.0/src/diagnostic.rs /home/vlavrentiev/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.10.0/src/line.rs
+
+/home/vlavrentiev/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.10.0/src/lib.rs:
+/home/vlavrentiev/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.10.0/src/ext.rs:
+/home/vlavrentiev/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.10.0/src/diagnostic.rs:
+/home/vlavrentiev/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.10.0/src/line.rs:
