@@ -1,22 +1,20 @@
-import type axios, { AxiosInstance } from "axios";
+import http from "./http-common";
 
-interface User {
+interface UserModel {
   id: number;
   name: string;
   email: string;
 }
 
 class UserModel {
-    
-  private readonly api: AxiosInstance;
-
-
-  constructor(api: AxiosInstance) {
-    this.api = api;
-  }
-
-  async getUsers(): Promise<User[]> {
-    const response = await this.api.get<User[]>("/users");
-    return response.data;
-  }
+  
+    getAll(): Promise<any> {
+      return http.get("/users");
+    }
+  
+    get(id: any): Promise<any> {
+      return http.get(`/user/${id}`);
+    }
 }
+
+export default new UserModel();
